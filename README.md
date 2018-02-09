@@ -1,1 +1,2 @@
-# Cricket-Score-Updater
+# Cricket-Score-Notifier
+This is an application that shows the score of **In-progress** cricket matches of the cricket teams that were added to the interests list by the user in from of pop-up notifications. The user has the options to change the duration for which the notification is shown and the time-gap between two notifications. The user can also add teams of local leagues to their interests list.

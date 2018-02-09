@@ -6,5 +6,6 @@ To use this application you require
 > Python 2.7
 
 > winToast module
+
 To install wintoast module use the following command:
 > pip install wintoast

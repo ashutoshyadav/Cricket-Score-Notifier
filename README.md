@@ -4,6 +4,7 @@ This is an application that shows the score of **In-progress** cricket matches o
 ## How to Use
 To use this application you require 
 > Python 2.7
+
 > winToast module
 To install wintoast module use the following command:
 > pip install wintoast
